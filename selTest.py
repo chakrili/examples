@@ -78,3 +78,10 @@ driver.find_element_by_xpath("//*[@class='btn btn-sm ml-2 btn-primary']").click(
 driver.find_element_by_link_text("Download ZIP").click()
 #driver.close()
 #driver.switch_to.window(current_window)
+
+
+#[DEFAULT]
+#URL = https://github.com/login
+#LOGINID=AutogitTest@test.com
+#PASSWORD=AutogitTest2019
+#SEARCHKWD=Python Basics
